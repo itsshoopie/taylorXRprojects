@@ -1405,6 +1405,10 @@ PrefabInstance:
       propertyPath: m_InteractionManager
       value: 
       objectReference: {fileID: 363750886}
+    - target: {fileID: 5881682425980414870, guid: da8aae5055a357643a241f7f5c3b3829, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.217
+      objectReference: {fileID: 0}
     - target: {fileID: 7350907206995384765, guid: da8aae5055a357643a241f7f5c3b3829, type: 3}
       propertyPath: m_Name
       value: XR Origin (Player)
